@@ -4,4 +4,4 @@ For run install node js in your system. If you have installed node js then check
 
 Now run this command for tailwindcss
 
-" npx tailwindcss -i tailwind.css -o ./public/assets/css/tailwind.css --watch --jit --purge="./public/\*.html" "
+" npx tailwindcss -i tailwind.css -o ./public/assets/css/tailwind.css --watch --jit --purge="./public/**/*.html" "
